@@ -1,28 +1,31 @@
-# cdn_dns_control_center 设置DNS解析的控制中心
+# cdn_dns_control_center Setting up DNS resolution control center
 
-## 一个设置DNS解析的界面，及时生效
 
-## 1. dns解析流程,先发布到线上服务器
 
-## 2. 域名供应商注册解析服务器
+## An interface that sets up DNS parsing and takes effect in time.
 
-## 3. 接管制定域名解析到自己DNS服务器
+## 1. DNS parsing process, first publish to online server.
 
-## 4. 读取相关域名对应的IP
+## 2. Domain name provider registration resolution server
+
+## 3. Take over the domain name to the DNS server.
+
+## 4. Read the corresponding IP of the domain name.
 
 ---------
 
-## 项目启动方式
+## Project startup mode
 
 ## 1. git clone https://github.com/StriveStruggleYou/cdn_dns_control_center.git
 
-## 2. 进入项目目录  sh start.sh
+## 2. Enter project directory  sh start.sh
 
-## 3. 访问项目的页面 127.0.0.1:8080 的首页
+## 3.Accessing project pages 127.0.0.1:8080 
 ![](https://github.com/StriveStruggleYou/cdn_dns_control_center/blob/master/img/eb24c46c-ccb3-4629-8030-3454efb0f72d.png)
 
-## 4. 新增一个DNS解析
+## 4. Add a DNS parse
+
 ![](https://github.com/StriveStruggleYou/cdn_dns_control_center/blob/master/img/2a21d2b9-7f69-4632-904d-954236799d39.png)
 
-## 5. 编辑一个原有的DNS解析
+## 5. Edit an old DNS parse
 ![](https://github.com/StriveStruggleYou/cdn_dns_control_center/blob/master/img/dcfecfc8-9480-4bf5-a263-07013c7d0dcf.png)
